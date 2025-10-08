@@ -6,7 +6,7 @@ To add my learning efforts in the field of Java. To upgrade to Java 21.
 
 # Topics:
   Lambdas <br> 
-  Stream API <br>
+  Streams API <br>
   Optional <br>
   Default/Static methods in interfaces <br>
   New Date/Time API <br>
