@@ -1,0 +1,21 @@
+
+# Default ignored files
+/.idea/
+/.idea/shelf/
+/workspace.xml
+/Lambdas/target/
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Build directories (optional, depending on your tech)
+target/
+build/
+bin/
