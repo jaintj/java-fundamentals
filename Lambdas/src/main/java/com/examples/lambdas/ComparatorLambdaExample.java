@@ -15,7 +15,7 @@ public class ComparatorLambdaExample {
         };
         System.out.println("result of the comparator is :" + comparator.compare(4,4));
 
-        // with lambda
+        // with lambda expression
         Comparator<Integer> comparator1 = (Integer a, Integer b) -> a.compareTo(b);
         System.out.println("Result of the comparator using lambda is :" + comparator1.compare(3,4));
 
