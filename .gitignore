@@ -3,7 +3,6 @@
 /.idea/
 /.idea/shelf/
 /workspace.xml
-/Lambdas/target/
 # IntelliJ IDEA
 .idea/
 *.iml
